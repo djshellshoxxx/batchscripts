@@ -2,8 +2,7 @@
 
 A collection of batch scripts, in progress.
 
-**Current contents:** this repository contains only this README and the `LICENSE` file. No scripts
-are committed yet, so there is nothing to install, run or test.
+**Current contents:** the default branch contains documentation, licensing and shared development tooling. Project batch scripts have yet to be added.
 
 ## Licence
 
